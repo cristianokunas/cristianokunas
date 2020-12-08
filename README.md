@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>-->
   
   <br>
-  <a href="#" alt="NVIDIA">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX%20RTx2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <!--<a href="#" alt="NVIDIA">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX%20RTx2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>-->
   
 </p>  
 
