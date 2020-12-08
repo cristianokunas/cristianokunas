@@ -8,15 +8,15 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Python</strong>
+  💻 Languages: <strong>Python</strong>
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>Visual Studio Code, GitHub, TensorFlow</strong>
+  🛠 Tools: <strong>Visual Studio Code, GitHub, TensorFlow</strong>
 </p>
 
 <p align="left">
-  📪 Para mais informações, entre em contato comigo: 👇
+  📪 For more information, contact me: 👇
 </p>
 
 <p align="left">
