@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  💻 Languages: <strong>Python</strong>
+  💻 Languages: <strong>Python, C, CUDA</strong>
 </p>
 
 <p align="left">
-  🛠 Tools: <strong>Visual Studio Code, GitHub, TensorFlow</strong>
+  🛠 Tools: <strong>Visual Studio Code, GitHub</strong>
 </p>
 
 <p align="left">
