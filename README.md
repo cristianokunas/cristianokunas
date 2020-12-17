@@ -21,7 +21,7 @@
 
 <p align="left">
 
-  <a href="https://api.whatsapp.com/send?phone=55559844575365&text=Ol%c3%a1%2c+estou+entrando+em+contado+porque+gostei+do+seu+trabalho!" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5555984457535&text=Ol%C3%A1%2C%20gostei%20do%20seu%20trabalho%21" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
   <a href="https://www.facebook.com/cristianokunas/" alt="Facebook">
