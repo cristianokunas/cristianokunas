@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/cristianokunas/cristianokunas/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Cristiano Künas, I'm 29 years old, bachelor in Computer Science.<br>
+  Hello, my name is Cristiano Künas, I'm 32 years old, Master in Computer Science.<br>
   
 </p>
 
