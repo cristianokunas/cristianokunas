@@ -37,6 +37,8 @@ serving researchers — accounting, QoS, fairshare, node provisioning, storage, 
 
 **Parallel & GPU** — `CUDA` `HIP/ROCm` `OpenCL` `OpenMP` `MPI` · profiling with
 `Nsight Systems` `Score-P` `rocprof` and hardware counters
+
 **HPC operations** — `Slurm` (accounting, fairshare, QoS, GRES, preemption) `OAR`
 `Ansible` `Apptainer` `Podman` `NFS` · node bring-up, monitoring, user management
+
 **Systems** — `C` `C++` `Python` `Bash` `R` · `GCC` `LLVM/Clang` `Intel` `NVCC` `HIPCC`
