@@ -28,7 +28,7 @@ serving researchers — accounting, QoS, fairshare, node provisioning, storage, 
 
 | Project | Role | What it is |
 |---|---|---|
-| [ARCTO](https://github.com/Parallel201/arcto) | author | Batched GPU compression for AMD (LZ4, Snappy, Cascaded, ZFP) on ROCm — validated on gfx90a, gfx942, gfx1100 |
+| [ARCTO](https://github.com/cristianokunas/arcto) | author | Batched GPU compression for AMD (LZ4, Snappy, Cascaded, ZFP) on ROCm — validated on gfx90a, gfx942, gfx1100 |
 | [compression-experiments](https://github.com/cristianokunas/compression-experiments) | author | Reproducible benchmark harness and analysis for the ARCTO study |
 
 ---
